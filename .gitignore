@@ -2,3 +2,8 @@
 /.vscode
 /exam papers
 /lectures
+
+# Compiled binaries
+*.exe
+*.o
+*.out
